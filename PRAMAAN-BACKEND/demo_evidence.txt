@@ -1,0 +1,14 @@
+FORENSIC EVIDENCE REPORT
+==========================
+Case No      : CASE-2026-001
+Evidence ID  : EV-CFSL-2026-042
+Date         : 29-Sep-2026
+Station      : CFSL Mumbai
+Examiner     : Dr. A. Verma
+
+Findings     : Forensic examination of seized hard disk (500GB).
+               Found encrypted files containing financial records.
+               MD5, SHA-256 hashes verified. No signs of modification.
+
+Status       : Under Analysis
+Classification: CONFIDENTIAL

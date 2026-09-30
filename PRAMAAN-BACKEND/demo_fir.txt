@@ -1,0 +1,13 @@
+FIRST INFORMATION REPORT (FIR)
+================================
+Case No      : CASE-2026-001
+Date         : 29-Sep-2026
+Station      : Cyber Crime Unit, Mumbai
+Officer      : Inspector Sharma
+Complainant  : ABC Corp Ltd
+
+Incident     : Unauthorized access to company servers.
+               Attacker exploited CVE-2026-1234 at 02:17 IST.
+               Data worth Rs.45 lakhs extracted.
+
+Status       : Under Investigation

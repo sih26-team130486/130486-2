@@ -1,0 +1,16 @@
+Django==5.2.1
+djangorestframework==3.16.1
+djangorestframework-simplejwt==5.5.1
+django-cors-headers==4.9.0
+psycopg2-binary==2.9.12
+python-decouple==3.8
+Pillow==11.3.0
+# P1 — PDF generation
+reportlab==5.0.1
+pymupdf==1.28.2
+pypdf==6.16.2
+# Demo and test client
+requests>=2.28.0
+# P2 — PII Redaction uses PyMuPDF (already listed above) + pure Regex (stdlib)
+# No additional packages needed for P2
+

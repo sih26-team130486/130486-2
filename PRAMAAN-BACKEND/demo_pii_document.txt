@@ -1,0 +1,25 @@
+INVESTIGATION REPORT
+====================
+Case No   : CASE-2026-001
+FIR No    : FIR-2026-1243
+Date      : 29-Sep-2026
+
+SUSPECT DETAILS:
+  Name     : Mr. Rajesh Kumar Singh
+  Aadhaar  : 9876 5432 1098
+  PAN      : ABCDE1234F
+  Phone    : +91-9876543210
+  Email    : rajesh.kumar@example.com
+  Voter ID : XYZ1234567
+
+WITNESS DETAILS:
+  Name     : Dr. Priya Sharma
+  Phone    : 9123456789
+  Email    : priya.sharma@gov.in
+
+INCIDENT SUMMARY:
+  Cyber fraud amounting to Rs. 45 lakhs.
+  Suspect used multiple SIM cards to evade detection.
+
+STATUS: Under Investigation
+CLASSIFICATION: CONFIDENTIAL

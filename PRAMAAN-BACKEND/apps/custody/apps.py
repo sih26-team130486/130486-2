@@ -1,0 +1,11 @@
+"""
+custody/apps.py
+"""
+from django.apps import AppConfig
+
+
+class CustodyConfig(AppConfig):
+    default_auto_field = 'django.db.models.BigAutoField'
+    name  = 'apps.custody'
+    label = 'custody'
+    verbose_name = 'Chain of Custody'

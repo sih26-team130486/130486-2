@@ -1,0 +1,21 @@
+{
+  "name": "pramaan-sih26190",
+  "private": true,
+  "version": "1.3.0",
+  "type": "module",
+  "description": "PRAMAAN frontend-only secure digital evidence and legal document management prototype.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node scripts/smoke-test.js"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.5"
+  }
+}

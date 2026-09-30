@@ -1,0 +1,24 @@
+INVESTIGATION REPORT
+====================
+Case No   : CASE-2026-001
+FIR No    : FIR-2026-1243
+Date      : 29-Sep-2026
+
+SUSPECT DETAILS:
+  Name     : [NAME REDACTED]
+  Aadhaar  : [AADHAAR REDACTED]
+  PAN      : [PAN REDACTED]
+  Phone    : [PHONE REDACTED]
+  Email    : [EMAIL REDACTED]
+  Voter ID : [VOTER ID REDACTED]
+
+WITNESS DETAILS:
+  Name     : [NAME REDACTED]    : [PHONE REDACTED]
+  Email    : [EMAIL REDACTED]
+
+INCIDENT SUMMARY:
+  Cyber fraud amounting to Rs. 45 lakhs.
+  Suspect used multiple SIM cards to evade detection.
+
+STATUS: Under Investigation
+CLASSIFICATION: CONFIDENTIAL
